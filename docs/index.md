@@ -1,11 +1,17 @@
-# Obsidian Notes
+# Obsidian Notes - Espy
 
-Publish your public notes with MkDocs
+Root of the ow Obsidian knowledge base.
 
-## Hello World!
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+
+
 
 The folders in `/docs` appear as the main sections on the navigation bar.
 
 The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+
+
+[[Note 2]]
+
+[[Note 3]]
+[[Note 4]]
