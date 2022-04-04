@@ -1,9 +1,6 @@
-# Obsidian Notes - Espy
+# A Poorly Labelled Wiki
 
-Root of the ow Obsidian knowledge base.
-
-
-
+Root of this Obsidian knowledge base.
 
 
 The folders in `/docs` appear as the main sections on the navigation bar.
