@@ -7,8 +7,12 @@
         "id": "a070645702fbf570",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           }
         ]
@@ -103,9 +110,9 @@
   "active": "a070645702fbf570",
   "lastOpenFiles": [
     "index.md",
-    "Pontification/Note 1.md",
-    "Pontification/Note 2.md",
+    "Exegesis/Note 3.md",
     "Exegesis/Note 4.md",
-    "Exegesis/Note 3.md"
+    "Pontification/Note 1.md",
+    "Pontification/Note 2.md"
   ]
 }
