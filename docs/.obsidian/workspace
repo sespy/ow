@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "Pontification/Note 2.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Pontification/Note 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Pontification/Note 2.md"
               }
             }
           }
@@ -109,10 +109,10 @@
   },
   "active": "a070645702fbf570",
   "lastOpenFiles": [
+    "Pontification/Note 2.md",
     "index.md",
     "Exegesis/Note 3.md",
     "Exegesis/Note 4.md",
-    "Pontification/Note 1.md",
-    "Pontification/Note 2.md"
+    "Pontification/Note 1.md"
   ]
 }

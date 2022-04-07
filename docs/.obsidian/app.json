@@ -6,5 +6,6 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "showFrontmatter": true
 }
