@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "Guidance/Identifiers.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Guidance/Identifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Guidance/Identifiers.md"
               }
             }
           }
@@ -110,12 +110,12 @@
   },
   "active": "a070645702fbf570",
   "lastOpenFiles": [
-    "index.md",
-    "Glossary.md",
+    "Guidance/Identifiers.md",
     "Topics/DOI.md",
+    "Glossary.md",
+    "index.md",
     "Topics/Cloud.md",
     "Test Area/Test Page One.md",
-    "Guidance/Note 5.md",
-    "Guidance/Identifiers.md"
+    "Guidance/Note 5.md"
   ]
 }
