@@ -1,3 +1,7 @@
+---
+tags:
+  - testB
+---
 
 # Glossary
 Definitions with a slant towards the needs of a state public health department

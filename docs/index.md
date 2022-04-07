@@ -1,4 +1,4 @@
-# A Poorly Labelled Wiki
+# A Poorly Labelled Wiki t
 
 Root of this Obsidian knowledge base. The folders in `/docs` appear as the main sections on the navigation bar.
 
