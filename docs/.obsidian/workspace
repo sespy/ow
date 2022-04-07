@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Guidance/Identifiers.md",
+            "file": "Topics/DOI.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guidance/Identifiers.md",
+                "file": "Topics/DOI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guidance/Identifiers.md"
+                "file": "Topics/DOI.md"
               }
             }
           }
@@ -110,8 +110,8 @@
   },
   "active": "a070645702fbf570",
   "lastOpenFiles": [
-    "Guidance/Identifiers.md",
     "Topics/DOI.md",
+    "Guidance/Identifiers.md",
     "Glossary.md",
     "index.md",
     "Topics/Cloud.md",
