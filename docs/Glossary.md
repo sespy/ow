@@ -1,6 +1,6 @@
 ---
 tags:
-  - testB
+  - reference
 ---
 
 # Glossary

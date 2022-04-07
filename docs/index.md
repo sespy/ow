@@ -1,10 +1,6 @@
-# A Poorly Labelled Wiki t
+# Home
+## Welcome
+Welcome to this collection of materials on notable aspects of the care and feeding of data. 
 
-Root of this Obsidian knowledge base. The folders in `/docs` appear as the main sections on the navigation bar.
 
-[[Data]]
-
-[[Note 3]]
-
-[[Note 5]]
 

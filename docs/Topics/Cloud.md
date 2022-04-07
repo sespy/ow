@@ -1,3 +1,3 @@
-# Data
+# UUID
 
-Example: link to [[Note 3]] under `Topic 2`
+Example: link to [[Identifiers]] under `Topic 2`
