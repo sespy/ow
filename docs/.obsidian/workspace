@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Guidance/Note 5.md",
+            "file": "Glossary.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guidance/Note 5.md",
+                "file": "Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,11 +97,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guidance/Note 5.md"
+                "file": "Glossary.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -109,8 +110,8 @@
   },
   "active": "a070645702fbf570",
   "lastOpenFiles": [
-    "Guidance/Note 5.md",
     "Glossary.md",
+    "Guidance/Note 5.md",
     "Test Area/Test Page One.md",
     "Topics/Data.md",
     "Topics/Cloud.md",
