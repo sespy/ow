@@ -6,5 +6,5 @@ Root of this Obsidian knowledge base. The folders in `/docs` appear as the main 
 
 [[Note 3]]
 
-[[Note 4]]
+[[Note 5]]
 
