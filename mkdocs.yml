@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: Pseudo-Random Knowledge Base
 
 theme:
     name: 'material'
@@ -41,3 +41,4 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks 
+  - tags
