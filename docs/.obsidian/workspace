@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "Test Area/Test Page One.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Test Area/Test Page One.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Test Area/Test Page One.md"
               }
             }
           }
@@ -109,11 +109,11 @@
   },
   "active": "a070645702fbf570",
   "lastOpenFiles": [
+    "Test Area/Test Page One.md",
     "index.md",
     "Topics/Cloud.md",
     "Topics/Data.md",
     "Guidance/Note 5.md",
-    "Guidance/Note 3.md",
-    "Test Area/Test Page One.md"
+    "Guidance/Note 3.md"
   ]
 }
