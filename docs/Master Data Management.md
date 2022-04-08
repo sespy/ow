@@ -5,6 +5,22 @@ It is a business concept and is independent of the technology used to conduct th
 MDM is not limited to identity data, or to HIM use, rather the scope extends to all business entities, public data sets, industry taxonomies, internal and external reference data, and the like.
 
 
+
+!!! note
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
+And later, we find...
+
+??? note
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
+
 ### resources
 
 https://www.healthit.gov/sites/default/files/master_data_management_final.pdf

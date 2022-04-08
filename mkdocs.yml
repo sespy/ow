@@ -43,10 +43,10 @@ markdown_extensions:
   #     custom_checkbox: true
 #  - pymdownx.emoji:
 #      emoji_generator: !!python/name:pymdownx.emoji.to_svg
-  # - admonition
+  - admonition
   - toc:
       permalink: true
-      toc_depth: 3-6
+      toc_depth: 3
 
 
 plugins:
