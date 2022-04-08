@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Topics/DOI.md",
+            "file": "Guidance/Identifiers.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/DOI.md",
+                "file": "Guidance/Identifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics/DOI.md"
+                "file": "Guidance/Identifiers.md"
               }
             }
           }
@@ -110,12 +110,15 @@
   },
   "active": "a070645702fbf570",
   "lastOpenFiles": [
-    "Topics/DOI.md",
     "Guidance/Identifiers.md",
+    "MDM.md",
+    "MPI.md",
+    "Topics/DOI.md",
+    "Master Person Index.md",
+    "Master Data Management.md",
     "Glossary.md",
     "index.md",
     "Topics/Cloud.md",
-    "Test Area/Test Page One.md",
-    "Guidance/Note 5.md"
+    "Test Area/Test Page One.md"
   ]
 }
